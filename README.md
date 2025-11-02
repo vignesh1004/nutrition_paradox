@@ -1,4 +1,4 @@
-# ⚖️ Nutrition Paradox: A Global View on Obesity and Malnutrition
+# Nutrition Paradox: A Global View on Obesity and Malnutrition
 
 ## 🖥️ App Screenshots
 
